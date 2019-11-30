@@ -2,6 +2,10 @@
 
 This repository contains basic implementation of feedforward/backpropagation neural network.
 
+<p align="center">
+ <img src="images/gopher-learning.png"  width="400" />
+ </p>
+
 ## Install
 ```
 go get -u github.com/RN0311/deep-learning-for-gophers
@@ -36,3 +40,7 @@ n := deep.NewNeural(&deep.Config{
 
 See ```examples/``` to train model on **Wine Dataset**:
 
+## Output
+<p align="center">
+ <img src="images/output.png"  width="400" />
+ </p>
