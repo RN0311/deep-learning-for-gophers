@@ -1,6 +1,6 @@
 # Deep Learning For Gophers
 
-This repository contains basic implementation of feedforward/backpropagation neural network.
+This repository contains basic implementation of feedforward/backpropagation neural network from scratch in golang.
 
 <p align="center">
  <img src="images/gopher-learning.png"  width="400" />
